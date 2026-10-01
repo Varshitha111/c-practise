@@ -1,0 +1,15 @@
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\bin\Debug\net10.0\HelloCsharp.exe
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\bin\Debug\net10.0\HelloCsharp.deps.json
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\bin\Debug\net10.0\HelloCsharp.runtimeconfig.json
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\bin\Debug\net10.0\HelloCsharp.dll
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\bin\Debug\net10.0\HelloCsharp.pdb
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.AssemblyInfoInputs.cache
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.AssemblyInfo.cs
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.csproj.CoreCompileInputs.cache
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.sourcelink.json
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.dll
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\refint\HelloCsharp.dll
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.pdb
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\HelloCsharp.genruntimeconfig.cache
+C:\Users\varshitha.guda\OneDrive - Acuvate Software Private Limited\training\c#practice\HelloCsharp\obj\Debug\net10.0\ref\HelloCsharp.dll
